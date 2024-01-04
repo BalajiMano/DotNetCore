@@ -54,7 +54,7 @@ return Thread.CurrentThread.ManagedThreadId.ToString();
         {
               HttpClient _Client=new HttpClient();
                Console.WriteLine($"Thread Id GetGoogle before async is {Thread.CurrentThread.ManagedThreadId}");
-            var _task =await _Client.GetAsync("https://youtube.com");
+            var _task =await _Client.GetAsync("https://Google.com");
             _task.EnsureSuccessStatusCode();
             var _res="google";
             if(_task.IsSuccessStatusCode)

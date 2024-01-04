@@ -137,3 +137,4 @@ C:\Balaji\Personal\Projects\.NET\Web Api\Commander\bin\Debug\net8.0\runtimes\win
 C:\Balaji\Personal\Projects\.NET\Web Api\Commander\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Balaji\Personal\Projects\.NET\Web Api\Commander\bin\Debug\net8.0\AutoMapper.dll
 C:\Balaji\Personal\Projects\.NET\Web Api\Commander\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Balaji\Personal\Projects\.NET\Web Api\Commander\obj\Debug\net8.0\Commander.sourcelink.json
